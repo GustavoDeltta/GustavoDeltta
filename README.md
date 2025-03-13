@@ -28,7 +28,7 @@
 #
 
 <p><img width="400px" align="left" src="src/dev.jpeg.png"></p>
-<h3 align="center" color=green>Git Statistics</h3>
+<h3 align="center" color=green>GitHub Statistics</h3>
 <p align="center">
   <a><img height="160px" alt="GustavoDeltta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GustavoDeltta&show_icons=true&theme=dark#gh-dark-mode-only" /></a>
 </p>
